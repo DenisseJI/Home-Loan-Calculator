@@ -1,0 +1,13 @@
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\bin\Debug\calculator.exe.config
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\bin\Debug\calculator.exe
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\bin\Debug\calculator.pdb
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\bin\Debug\calculator.xml
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.vbproj.AssemblyReference.cache
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.vbproj.GenerateResource.cache
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.exe
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.xml
+C:\Users\Denisse Jimenez\Desktop\CS-3500\calculator\obj\Debug\calculator.pdb
